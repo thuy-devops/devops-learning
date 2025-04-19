@@ -18,3 +18,6 @@ Ghi chú & bài tập quá trình học DevOps cơ bản – thực hành qua t�
 
 > ✨ Lộ trình sẽ tiếp tục với Ngày 2: `chmod`, `chown`, `rwx` – quản lý quyền truy cập file# devops-learning
 Ghi chú &amp; bài tập quá trình học DevOps cơ bản
+## ✅ Ngày 2: Quản lý File và Folder
+- Sử dụng echo, cat, cp, mv, rm, mkdir
+- Bài tập thực hành với notes.txt, archive/, v.v.
